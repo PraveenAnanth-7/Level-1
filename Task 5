@@ -1,0 +1,6 @@
+ydict = {}
+for _ in range(3):
+    key = input("Enter a key (string): ")
+    value = int(input("Enter a value (integer): "))
+    dict[key] = value
+print("Final Dictionary:", dict)
