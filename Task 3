@@ -1,0 +1,9 @@
+import numpy as np
+arr = np.array([1,  2,  3,  4,  5,  6,  7,  8,  9, 10])
+arr
+mean = np.mean(arr)
+max = np.max(arr)
+min = np.min(arr)
+print(f"Mean : {mean}, Min : {min}, Max : {max}")
+
+# Mean : 5.5, Min : 1, Max : 10
