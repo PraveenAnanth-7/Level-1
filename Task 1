@@ -1,0 +1,6 @@
+a = "Hello Python!"
+print(a)
+s = 5
+t = 3
+s+t
+print(f"Hello, Python! \n 5 + 3 = {s + t}")
